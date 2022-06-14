@@ -3,7 +3,8 @@ package algorithm.array;
 /**
  * @author chenjianhua
  * @Description 旋转数组
- * @See 题解：https://leetcode.cn/problems/rotate-array/solution/xuan-zhuan-shu-zu-by-leetcode-solution-nipk/
+ * @see <a href= https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2skh7/>题目</a>
+ * @see <a href= https://leetcode.cn/problems/rotate-array/solution/xuan-zhuan-shu-zu-by-leetcode-solution-nipk/>题解</a>
  * @title RotateArray
  * @date 2022/6/13
  */

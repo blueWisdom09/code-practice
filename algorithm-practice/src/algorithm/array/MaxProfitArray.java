@@ -3,8 +3,8 @@ package algorithm.array;
 /**
  * @author chenjianhua
  * @Description 买卖股票的最佳时机 II （在任何时候 最多 只能持有 一股 股票）
- * @See https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2zsx1/
- * @See 题解：https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/solution/mai-mai-gu-piao-de-zui-jia-shi-ji-ii-by-leetcode-s/
+ * @see <a href= https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2zsx1/>题目</a>
+ * @see <a href= https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/solution/mai-mai-gu-piao-de-zui-jia-shi-ji-ii-by-leetcode-s/>题解</a>
  * @title MaxProfitArray
  * @date 2022/6/9
  */

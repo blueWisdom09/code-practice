@@ -3,7 +3,7 @@ package algorithm.array;
 /**
  * @author chenjianhua
  * @Description 删除排序数组中的重复项
- * @See https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2gy9m/
+ * @see <a href= https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2gy9m/>题目</a>
  * @title RemoveDuplicateArray
  * @date 2022/6/6
  */
