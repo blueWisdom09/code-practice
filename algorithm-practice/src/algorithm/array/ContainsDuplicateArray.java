@@ -28,6 +28,7 @@ public class ContainsDuplicateArray {
      * @date 2022/6/14 14:34
      */
     public static boolean containsDuplicateOne(int[] nums) {
+        //双层for循环
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
                 if(nums[i] == nums[j]){
