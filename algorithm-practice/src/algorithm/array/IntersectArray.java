@@ -5,6 +5,7 @@ import java.util.*;
 /**
  * @author chenjianhua
  * @Description 两个数组的交集II
+ * @see <a href= https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2y0c2/>题目</a>
  * @title IntersectArray
  * @date 2022/6/15
  */
@@ -82,7 +83,7 @@ public class IntersectArray {
     }
 
     /**
-     * 官方优化版本 map
+     * 官方优化版本 map 减少了集合转化为数组的操作
      * @param nums1
      * @param nums2
      * @return int[]
