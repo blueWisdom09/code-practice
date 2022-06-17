@@ -3,7 +3,7 @@ package algorithm.array;
 /**
  * @author chenjianhua
  * @Description 移动零
- * @see <a href="https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2ba4i/"></a>
+ * @see <a href="https://leetcode.cn/leetbook/read/top-interview-questions-easy/x2ba4i/">题目</a>
  * @title MoveZeroesArray
  * @date 2022/6/16
  */
