@@ -7,4 +7,9 @@ package algorithm.string;
  * @date 2022/6/30
  */
 public class IsAnagramString {
+
+
+    public boolean isAnagram(String s, String t) {
+        return false;
+    }
 }
